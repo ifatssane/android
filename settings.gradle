@@ -1,3 +1,6 @@
+include ':examAbirBoulif'
+include ':hugo'
+include ':examen2020'
 include ':TD6'
 include ':TD5'
 include ':TD4'
